@@ -1,0 +1,4000 @@
+[ 2018-02-08T09:16:23+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.054713s][吞吐率：18.28req/s] [内存消耗：2,265.06kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=bdq5n4b1a3o0snigfadt1ue8s2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:16:23+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map [运行时间：0.050848s][吞吐率：19.67req/s] [内存消耗：1,711.55kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'bootstrap',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=bdq5n4b1a3o0snigfadt1ue8s2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:16:29+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.049933s][吞吐率：20.03req/s] [内存消耗：2,106.16kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=bdq5n4b1a3o0snigfadt1ue8s2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:16:32+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.042612s][吞吐率：23.47req/s] [内存消耗：2,106.13kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/selfTestingCode/selfTestingCode/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=bdq5n4b1a3o0snigfadt1ue8s2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:20:38+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.052821s][吞吐率：18.93req/s] [内存消耗：2,270.95kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=bdq5n4b1a3o0snigfadt1ue8s2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:21:45+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.052972s][吞吐率：18.88req/s] [内存消耗：2,106.09kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=bdq5n4b1a3o0snigfadt1ue8s2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:21:48+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.049890s][吞吐率：20.04req/s] [内存消耗：2,106.09kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=bdq5n4b1a3o0snigfadt1ue8s2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:21:56+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.044692s][吞吐率：22.38req/s] [内存消耗：2,105.96kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:22:22+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.044126s][吞吐率：22.66req/s] [内存消耗：2,105.80kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=is833pmspacaslquq47dap99s3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:24:05+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.047528s][吞吐率：21.04req/s] [内存消耗：2,267.92kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=is833pmspacaslquq47dap99s3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:25:05+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.050296s][吞吐率：19.88req/s] [内存消耗：2,267.13kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=is833pmspacaslquq47dap99s3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:25:23+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.045177s][吞吐率：22.14req/s] [内存消耗：2,106.11kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=is833pmspacaslquq47dap99s3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:26:23+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.041248s][吞吐率：24.24req/s] [内存消耗：2,105.55kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:27:12+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map [运行时间：0.039791s][吞吐率：25.13req/s] [内存消耗：1,711.61kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'bootstrap',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:29:51+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.052214s][吞吐率：19.15req/s] [内存消耗：2,106.02kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:29:51+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map [运行时间：0.036543s][吞吐率：27.36req/s] [内存消耗：1,711.61kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'bootstrap',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:30:07+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.051048s][吞吐率：19.59req/s] [内存消耗：2,106.06kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:30:07+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map [运行时间：0.046089s][吞吐率：21.70req/s] [内存消耗：1,711.63kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'bootstrap',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:30:11+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.041349s][吞吐率：24.18req/s] [内存消耗：2,106.02kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:30:11+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map [运行时间：0.042580s][吞吐率：23.49req/s] [内存消耗：1,711.63kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'bootstrap',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:32:25+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.051906s][吞吐率：19.27req/s] [内存消耗：2,106.02kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:32:40+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.047423s][吞吐率：21.09req/s] [内存消耗：2,106.02kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:34:09+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.054554s][吞吐率：18.33req/s] [内存消耗：2,267.15kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:34:49+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.049025s][吞吐率：20.40req/s] [内存消耗：2,267.17kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:34:52+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.049066s][吞吐率：20.38req/s] [内存消耗：2,105.99kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:35:26+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.057850s][吞吐率：17.29req/s] [内存消耗：2,267.19kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:36:13+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.053995s][吞吐率：18.52req/s] [内存消耗：2,267.31kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=is833pmspacaslquq47dap99s3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:36:15+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.049954s][吞吐率：20.02req/s] [内存消耗：2,106.16kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=is833pmspacaslquq47dap99s3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:36:22+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.049024s][吞吐率：20.40req/s] [内存消耗：2,106.03kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:36:43+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.055763s][吞吐率：17.93req/s] [内存消耗：2,267.19kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:36:45+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.046897s][吞吐率：21.32req/s] [内存消耗：2,106.00kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:38:40+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map [运行时间：0.036551s][吞吐率：27.36req/s] [内存消耗：1,711.61kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'bootstrap',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:39:40+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.054695s][吞吐率：18.28req/s] [内存消耗：2,267.29kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:39:42+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.049174s][吞吐率：20.34req/s] [内存消耗：2,106.02kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:40:00+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.050873s][吞吐率：19.66req/s] [内存消耗：2,106.02kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:40:20+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.053238s][吞吐率：18.78req/s] [内存消耗：2,106.02kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:40:33+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map [运行时间：0.036322s][吞吐率：27.53req/s] [内存消耗：1,711.61kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'bootstrap',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:44:04+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.049856s][吞吐率：20.06req/s] [内存消耗：2,106.14kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:44:04+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map [运行时间：0.042864s][吞吐率：23.33req/s] [内存消耗：1,711.57kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'bootstrap',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:44:48+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.049908s][吞吐率：20.04req/s] [内存消耗：2,106.14kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:44:48+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map [运行时间：0.043783s][吞吐率：22.84req/s] [内存消耗：1,711.57kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'bootstrap',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:45:36+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.051322s][吞吐率：19.48req/s] [内存消耗：2,106.14kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:45:37+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map [运行时间：0.043934s][吞吐率：22.76req/s] [内存消耗：1,711.59kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'bootstrap',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:45:43+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.044356s][吞吐率：22.54req/s] [内存消耗：2,106.02kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:45:45+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.048936s][吞吐率：20.43req/s] [内存消耗：2,106.02kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:46:03+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.049729s][吞吐率：20.11req/s] [内存消耗：2,106.02kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:46:05+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map [运行时间：0.043616s][吞吐率：22.93req/s] [内存消耗：1,711.57kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'bootstrap',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:49:16+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.049441s][吞吐率：20.23req/s] [内存消耗：2,106.14kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:49:16+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map [运行时间：0.047674s][吞吐率：20.98req/s] [内存消耗：1,711.59kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'bootstrap',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:49:26+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map [运行时间：0.036553s][吞吐率：27.36req/s] [内存消耗：1,711.59kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'bootstrap',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:49:30+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.045415s][吞吐率：22.02req/s] [内存消耗：2,106.02kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:51:52+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map [运行时间：0.043718s][吞吐率：22.87req/s] [内存消耗：1,711.59kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'bootstrap',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:55:46+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/bootstrap/css/bootstrap.min.css.map [运行时间：0.041423s][吞吐率：24.14req/s] [内存消耗：1,711.59kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'bootstrap',
+    2 => 'css',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:59:35+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.065035s][吞吐率：15.38req/s] [内存消耗：2,264.90kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T09:59:55+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.054192s][吞吐率：18.45req/s] [内存消耗：2,264.89kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:00:48+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.058772s][吞吐率：17.01req/s] [内存消耗：2,265.08kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=is833pmspacaslquq47dap99s3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:01:00+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.045459s][吞吐率：22.00req/s] [内存消耗：2,106.16kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=is833pmspacaslquq47dap99s3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:01:32+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.051069s][吞吐率：19.58req/s] [内存消耗：2,106.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:01:41+08:00 ] 127.0.0.1 127.0.0.1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] 127.0.0.1/selfTestingCode/selfTestingCode/public/ [运行时间：0.044676s][吞吐率：22.38req/s] [内存消耗：2,106.16kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=is833pmspacaslquq47dap99s3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:01:45+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.050523s][吞吐率：19.79req/s] [内存消耗：2,106.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:02:00+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.056360s][吞吐率：17.74req/s] [内存消耗：2,264.98kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:03:04+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.053337s][吞吐率：18.75req/s] [内存消耗：2,106.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:07:58+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.052466s][吞吐率：19.06req/s] [内存消耗：2,106.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:08:25+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.052590s][吞吐率：19.02req/s] [内存消耗：2,106.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:10:06+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.050832s][吞吐率：19.67req/s] [内存消耗：2,106.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:10:15+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.049084s][吞吐率：20.37req/s] [内存消耗：2,106.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:10:22+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.050138s][吞吐率：19.94req/s] [内存消耗：2,106.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:10:33+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.043299s][吞吐率：23.10req/s] [内存消耗：2,106.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:10:40+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.049134s][吞吐率：20.35req/s] [内存消耗：2,106.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:10:48+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.042648s][吞吐率：23.45req/s] [内存消耗：2,106.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:11:02+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.051607s][吞吐率：19.38req/s] [内存消耗：2,106.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:11:15+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.049973s][吞吐率：20.01req/s] [内存消耗：2,106.05kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:42:39+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.052965s][吞吐率：18.88req/s] [内存消耗：2,320.95kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:42:39+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/css/index/main.css
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/css/index/main.css [运行时间：0.041198s][吞吐率：24.27req/s] [内存消耗：1,712.13kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'css',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:42:39+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js [运行时间：0.037426s][吞吐率：26.72req/s] [内存消耗：1,712.27kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'plugins',
+    2 => 'waypoints',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:42:39+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js [运行时间：0.039246s][吞吐率：25.48req/s] [内存消耗：1,712.27kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'plugins',
+    2 => 'waypoints',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:42:39+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg [运行时间：0.043753s][吞吐率：22.86req/s] [内存消耗：1,712.25kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide2.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:42:40+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg [运行时间：0.043863s][吞吐率：22.80req/s] [内存消耗：1,712.27kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:42:40+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg [运行时间：0.040729s][吞吐率：24.55req/s] [内存消耗：1,712.25kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide3.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:43:08+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/css/index/main.css
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/css/index/main.css [运行时间：0.050458s][吞吐率：19.82req/s] [内存消耗：1,712.17kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'css',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:43:08+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/js/index/jquery.min.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/js/index/jquery.min.map [运行时间：0.047037s][吞吐率：21.26req/s] [内存消耗：1,711.87kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:43:59+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.055193s][吞吐率：18.12req/s] [内存消耗：2,320.95kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:43:59+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js [运行时间：0.037588s][吞吐率：26.60req/s] [内存消耗：1,712.27kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'plugins',
+    2 => 'waypoints',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:44:00+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js [运行时间：0.039934s][吞吐率：25.04req/s] [内存消耗：1,712.27kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'plugins',
+    2 => 'waypoints',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:44:00+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/css/index/__IMG__/index/testimonials/Testimonials.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/css/index/__IMG__/index/testimonials/Testimonials.jpg [运行时间：0.038272s][吞吐率：26.13req/s] [内存消耗：1,712.80kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'css',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/static/css/index/index.css',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+  '__IMG__' => 'index',
+  'testimonials' => 'Testimonials.jpg',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:44:00+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg [运行时间：0.036275s][吞吐率：27.57req/s] [内存消耗：1,712.27kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:44:00+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg [运行时间：0.042885s][吞吐率：23.32req/s] [内存消耗：1,712.24kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide2.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:44:00+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg [运行时间：0.039435s][吞吐率：25.36req/s] [内存消耗：1,712.25kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide3.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:45:38+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.044420s][吞吐率：22.51req/s] [内存消耗：2,122.49kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:45:38+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js [运行时间：0.035509s][吞吐率：28.16req/s] [内存消耗：1,712.27kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'plugins',
+    2 => 'waypoints',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:45:38+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/css/index/__IMG__/index/testimonials/Testimonials.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/css/index/__IMG__/index/testimonials/Testimonials.jpg [运行时间：0.040295s][吞吐率：24.82req/s] [内存消耗：1,712.80kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'css',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/static/css/index/index.css',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+  '__IMG__' => 'index',
+  'testimonials' => 'Testimonials.jpg',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:45:38+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg [运行时间：0.036877s][吞吐率：27.12req/s] [内存消耗：1,712.27kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:45:38+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg [运行时间：0.038464s][吞吐率：26.00req/s] [内存消耗：1,712.25kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide3.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:45:38+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg [运行时间：0.036430s][吞吐率：27.45req/s] [内存消耗：1,712.24kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide2.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:45:43+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.049962s][吞吐率：20.02req/s] [内存消耗：2,122.49kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:45:43+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js [运行时间：0.037775s][吞吐率：26.47req/s] [内存消耗：1,712.27kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'plugins',
+    2 => 'waypoints',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:45:43+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/css/index/__IMG__/index/testimonials/Testimonials.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/css/index/__IMG__/index/testimonials/Testimonials.jpg [运行时间：0.040716s][吞吐率：24.56req/s] [内存消耗：1,712.80kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'css',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/static/css/index/index.css',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+  '__IMG__' => 'index',
+  'testimonials' => 'Testimonials.jpg',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:45:43+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg [运行时间：0.037743s][吞吐率：26.49req/s] [内存消耗：1,712.26kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:45:43+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg [运行时间：0.036295s][吞吐率：27.55req/s] [内存消耗：1,712.25kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide2.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:45:43+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg [运行时间：0.039800s][吞吐率：25.13req/s] [内存消耗：1,712.25kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide3.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:55:07+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.140989s][吞吐率：7.09req/s] [内存消耗：2,122.07kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:55:07+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js [运行时间：0.144535s][吞吐率：6.92req/s] [内存消耗：1,711.97kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'plugins',
+    2 => 'waypoints',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:55:07+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/js/index/jquery.min.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/js/index/jquery.min.map [运行时间：0.126532s][吞吐率：7.90req/s] [内存消耗：1,711.57kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:55:07+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/css/index/__IMG__/index/testimonials/Testimonials.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/css/index/__IMG__/index/testimonials/Testimonials.jpg [运行时间：0.153336s][吞吐率：6.52req/s] [内存消耗：1,712.71kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'css',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/static/css/index/index.css',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+  '__IMG__' => 'index',
+  'testimonials' => 'Testimonials.jpg',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:55:08+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg [运行时间：0.126670s][吞吐率：7.89req/s] [内存消耗：1,711.92kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:55:08+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg [运行时间：0.139429s][吞吐率：7.17req/s] [内存消耗：1,711.97kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide2.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:55:08+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg [运行时间：0.134921s][吞吐率：7.41req/s] [内存消耗：1,711.99kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide3.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:56:22+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.134942s][吞吐率：7.41req/s] [内存消耗：2,121.97kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:56:22+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js [运行时间：0.108464s][吞吐率：9.22req/s] [内存消耗：1,711.95kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'plugins',
+    2 => 'waypoints',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:56:22+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/css/index/__IMG__/index/testimonials/Testimonials.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/css/index/__IMG__/index/testimonials/Testimonials.jpg [运行时间：0.120474s][吞吐率：8.30req/s] [内存消耗：1,712.55kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'css',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/static/css/index/index.css',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+  '__IMG__' => 'index',
+  'testimonials' => 'Testimonials.jpg',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:56:22+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg [运行时间：0.113162s][吞吐率：8.84req/s] [内存消耗：1,711.93kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:56:22+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg [运行时间：0.123653s][吞吐率：8.09req/s] [内存消耗：1,711.95kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide2.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:56:22+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg [运行时间：0.118580s][吞吐率：8.43req/s] [内存消耗：1,711.91kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide3.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:56:30+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/js/index/jquery.min.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/js/index/jquery.min.map [运行时间：0.136053s][吞吐率：7.35req/s] [内存消耗：1,711.60kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:56:36+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.127892s][吞吐率：7.82req/s] [内存消耗：2,122.07kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:56:36+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js [运行时间：0.128188s][吞吐率：7.80req/s] [内存消耗：1,711.96kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'plugins',
+    2 => 'waypoints',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:56:36+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/js/index/jquery.min.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/js/index/jquery.min.map [运行时间：0.123410s][吞吐率：8.10req/s] [内存消耗：1,711.57kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:56:37+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/css/index/__IMG__/index/testimonials/Testimonials.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/css/index/__IMG__/index/testimonials/Testimonials.jpg [运行时间：0.133282s][吞吐率：7.50req/s] [内存消耗：1,712.71kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'css',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/static/css/index/index.css',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+  '__IMG__' => 'index',
+  'testimonials' => 'Testimonials.jpg',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:56:37+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg [运行时间：0.128983s][吞吐率：7.75req/s] [内存消耗：1,711.92kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:56:37+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg [运行时间：0.140780s][吞吐率：7.10req/s] [内存消耗：1,711.95kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide2.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:56:37+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg [运行时间：0.117352s][吞吐率：8.52req/s] [内存消耗：1,711.95kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide3.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:57:57+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.154718s][吞吐率：6.46req/s] [内存消耗：2,121.77kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:57:58+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js [运行时间：0.124406s][吞吐率：8.04req/s] [内存消耗：1,711.95kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'plugins',
+    2 => 'waypoints',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:57:59+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg [运行时间：0.138053s][吞吐率：7.24req/s] [内存消耗：1,711.94kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:57:59+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg [运行时间：0.140849s][吞吐率：7.10req/s] [内存消耗：1,711.94kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide2.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:57:59+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg [运行时间：0.137515s][吞吐率：7.27req/s] [内存消耗：1,711.95kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide3.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T10:58:07+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/js/index/jquery.min.map
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/js/index/jquery.min.map [运行时间：0.125340s][吞吐率：7.98req/s] [内存消耗：1,711.60kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T11:25:19+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.064665s][吞吐率：15.46req/s] [内存消耗：2,121.80kb] [文件加载：51]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T11:25:19+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js [运行时间：0.043476s][吞吐率：23.00req/s] [内存消耗：1,711.95kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'plugins',
+    2 => 'waypoints',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T11:25:19+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg [运行时间：0.038288s][吞吐率：26.12req/s] [内存消耗：1,711.93kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T11:25:19+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg [运行时间：0.042480s][吞吐率：23.54req/s] [内存消耗：1,711.91kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide2.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T11:25:19+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg [运行时间：0.039039s][吞吐率：25.62req/s] [内存消耗：1,711.95kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide3.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T11:46:09+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/
+[ log ] localhost/selfTestingCode/selfTestingCode/public/ [运行时间：0.060715s][吞吐率：16.47req/s] [内存消耗：2,321.63kb] [文件加载：53]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\AppServ\www\selfTestingCode\selfTestingCode\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\AppServ\www\selfTestingCode\selfTestingCode\public/../application/index\view\index\index.html [ array (
+  0 => 'loginUrl',
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T11:46:10+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js
+[ log ] localhost/selfTestingCode/selfTestingCode/public/static/plugins/waypoints/jquery.waypoints.min.js [运行时间：0.033658s][吞吐率：29.71req/s] [内存消耗：1,711.94kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'plugins',
+    2 => 'waypoints',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T11:46:10+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide.jpg [运行时间：0.034509s][吞吐率：28.98req/s] [内存消耗：1,711.94kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T11:46:10+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide3.jpg [运行时间：0.054176s][吞吐率：18.46req/s] [内存消耗：1,711.91kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide3.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2018-02-08T11:46:10+08:00 ] ::1 ::1 GET /selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg
+[ log ] localhost/selfTestingCode/selfTestingCode/public/img/sliders/Slide2.jpg [运行时间：0.037291s][吞吐率：26.82req/s] [内存消耗：1,711.91kb] [文件加载：45]
+[ info ] [ LANG ] D:\AppServ\www\selfTestingCode\selfTestingCode\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'img',
+    1 => 'sliders',
+    2 => 'Slide2.jpg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost/selfTestingCode/selfTestingCode/public/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=nf7klu82hitjcf7adgs34hnum3',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
