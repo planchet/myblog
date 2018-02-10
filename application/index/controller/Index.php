@@ -14,7 +14,6 @@ class Index extends Controller
         //          模块名/控制器名/方法名
         $index = url('index/index/login');
 
-        $this->assign('loginUrl',$index);//向页面传值
         //打开当前项目中 application/模块名\view\控制器名\方法名.html（如果在fetch中传值，则打开值.html）
         return $this->fetch();
     }
